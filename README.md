@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pauljfournier
+- 👀 I’m interested in Creation, a great mix between narrative, design and technics.
+- 🌱 I’m currently learning stories creation, novel writting, C++ and Unreal Engine.
+- 📫 How to reach me pauljfournier@gmail.com
