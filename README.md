@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @pauljfournier
 - 👀 I’m interested in Creation, a great mix between narrative, design and technics.
 - 🌱 I’m currently learning stories creation, novel writting, C++ and Unreal Engine.
-- 📫 How to reach me pauljfournier@gmail.com
+- 📫 How to reach me: pauljfournier@gmail.com
+- You can find me in [Linkedin](https://www.linkedin.com/in/pauljfournier/) and [Fiverr](https://fr.fiverr.com/soryn_/write-you-write-and-design-a-ttrpg-adventure-for-you)
